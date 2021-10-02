@@ -20,3 +20,4 @@ arrChave1.forEach(x => {
 
 let string = arrChave2.join('');
 console.log(string);
+console.log(Buffer.byteLength(string,));
